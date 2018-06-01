@@ -4,4 +4,4 @@ We release the CAD files for the camera mounts for you to download and modify, i
 
 ## Interface Documentation
 
-By releasing the mounts as example geometry we automatically document the interface. You can use the CAD files to take measurements and make your own mounts. Note, that the tolerances may need to be changes for your material or fabrication process.
+By releasing the mounts as example geometry we automatically document the interface. You can use the CAD files to take measurements and make your own mounts. Note, that the tolerances may need to be changed for your material or fabrication process.
